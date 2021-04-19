@@ -2,7 +2,7 @@
 Smart Swappable Hotend for Ender 3
 
 
-![ssh-e3]()
+![ssh-e3](https://github.com/dazeroit/ssh-e3/blob/master/Images/thumb_thing_03.jpg)
 
 I created this project to be able to replace the Ender 3 hotend faster, so it is possible to switch from the original hotend to a custom one, from bowden to direct or create a support for a laser etc ...
 
