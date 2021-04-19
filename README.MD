@@ -8,4 +8,6 @@ I created this project to be able to replace the Ender 3 hotend faster, so it is
 
 I also made a pcb connection board, here you can find the STL files to print, the connection diagrams, the gerber files to replicate the pcb board, the drawings in Fusion 360 to create your custom support and a small PDF assembly guide.
 
+NOTE: Pay attention to "Motor" connection on PCB board, refer to schematics !
+
 Enjoy !
